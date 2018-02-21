@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -29,7 +28,22 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3855" />
+     id="defs3855">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="6065.3335"
+       height="2354.6667"
+       id="pattern829">
+      <image
+         y="0"
+         x="0"
+         id="image3859"
+         style="display:inline;fill:none;stroke:#ed950d;stroke-width:35.39527512;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="2354.6667"
+         width="6065.3335" />
+    </pattern>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -40,24 +54,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-height="1060"
      id="namedview3853"
      showgrid="false"
      inkscape:zoom="0.30404503"
-     inkscape:cx="4826.7673"
+     inkscape:cx="4828.4118"
      inkscape:cy="1177.3334"
      inkscape:window-x="1050"
-     inkscape:window-y="38"
+     inkscape:window-y="20"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4404" />
-  <image
-     width="6065.3335"
-     height="2354.6667"
-     preserveAspectRatio="none"
-     style="display:none;image-rendering:optimizeQuality"
-     id="image3859"
-     x="0"
-     y="0" />
+     inkscape:current-layer="svg3851" />
   <g
      id="g4404">
     <path
@@ -113,4 +119,11 @@
        inkscape:connector-curvature="0"
        inkscape:label="schwarz" />
   </g>
+  <rect
+     style="stroke:#ed950d;fill:url(#pattern829);stroke-width:11.33858253;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     width="6065.3335"
+     height="2354.6667"
+     x="0"
+     y="0"
+     id="rect832" />
 </svg>
